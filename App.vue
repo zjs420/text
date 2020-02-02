@@ -1,4 +1,5 @@
 <script>
+    /**/我改变了
 	export default {
 		onLaunch: function () {
 			console.log('App Launch')
